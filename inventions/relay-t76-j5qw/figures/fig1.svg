@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#ffffff"/>
+  <line x1="50" y1="300" x2="120" y2="300" stroke="#111" stroke-width="2"/>
+  <text x="30" y="305" font-family="Helvetica, Arial, sans-serif" font-size="12">RF in</text>
+  <rect x="120" y="260" width="120" height="80" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="140" y="310" font-family="Helvetica, Arial, sans-serif" font-size="11">Analog front-end (14)</text>
+  <line x1="240" y1="300" x2="290" y2="300" stroke="#111" stroke-width="2"/>
+  <rect x="290" y="275" width="80" height="50" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="300" y="305" font-family="Helvetica, Arial, sans-serif" font-size="11">ADC 500 Msps</text>
+  <line x1="370" y1="300" x2="420" y2="300" stroke="#111" stroke-width="2"/>
+  <rect x="420" y="260" width="110" height="80" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="435" y="285" font-family="Helvetica, Arial, sans-serif" font-size="11">FFT engine (16)</text>
+  <text x="430" y="300" font-family="Helvetica, Arial, sans-serif" font-size="9">1024-pt / 1 ms</text>
+  <text x="430" y="315" font-family="Helvetica, Arial, sans-serif" font-size="9">Hamming 75%</text>
+  <line x1="530" y1="300" x2="580" y2="300" stroke="#111" stroke-width="2"/>
+  <rect x="580" y="275" width="90" height="50" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="585" y="305" font-family="Helvetica, Arial, sans-serif" font-size="10">-85 dBm thresh</text>
+  <line x1="670" y1="300" x2="720" y2="300" stroke="#111" stroke-width="2"/>
+  <rect x="720" y="260" width="70" height="80" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="725" y="285" font-family="Helvetica, Arial, sans-serif" font-size="10">Selector (18)</text>
+  <text x="725" y="300" font-family="Helvetica, Arial, sans-serif" font-size="9">state mach</text>
+  <line x1="755" y1="340" x2="755" y2="400" stroke="#111" stroke-width="2"/>
+  <rect x="710" y="400" width="90" height="40" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="715" y="425" font-family="Helvetica, Arial, sans-serif" font-size="9">Whitelist (20)</text>
+  <line x1="720" y1="320" x2="650" y2="380" stroke="#111" stroke-width="2"/>
+  <rect x="560" y="360" width="90" height="50" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="565" y="390" font-family="Helvetica, Arial, sans-serif" font-size="10">LO DAC (22)</text>
+  <line x1="720" y1="260" x2="720" y2="200" stroke="#111" stroke-width="2"/>
+  <line x1="720" y1="200" x2="650" y2="200" stroke="#111" stroke-width="2"/>
+  <rect x="560" y="175" width="90" height="50" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="565" y="205" font-family="Helvetica, Arial, sans-serif" font-size="10">Demod / MAC</text>
+  <text x="400" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">FIG. 1</text>
+</svg>
