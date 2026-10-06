@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+<rect width="800" height="600" fill="#fff"/>
+<line x1="100" y1="300" x2="700" y2="300" stroke="#111" stroke-width="2"/>
+<text x="720" y="305" font-family="Helvetica, Arial, sans-serif" font-size="10">V</text>
+<rect x="380" y="260" width="40" height="80" fill="none" stroke="#111" stroke-width="2"/>
+<line x1="400" y1="340" x2="360" y2="400" stroke="#111" stroke-width="2"/>
+<line x1="400" y1="340" x2="440" y2="400" stroke="#111" stroke-width="2"/>
+<line x1="360" y1="400" x2="340" y2="380" stroke="#111" stroke-width="2"/>
+<line x1="440" y1="400" x2="460" y2="380" stroke="#111" stroke-width="2"/>
+<text x="400" y="420" font-family="Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle">0.2 m/s (32)</text>
+<circle cx="400" cy="300" r="15" fill="none" stroke="#111" stroke-width="2"/>
+<text x="400" y="304" font-family="Helvetica, Arial, sans-serif" font-size="8" text-anchor="middle">RW (34)</text>
+<rect x="450" y="280" width="20" height="15" fill="none" stroke="#111" stroke-width="1.5"/>
+<text x="460" y="290" font-family="Helvetica, Arial, sans-serif" font-size="7" text-anchor="middle">P (36)</text>
+<line x1="400" y1="300" x2="400" y2="260" stroke="#111" stroke-width="1"/>
+<line x1="400" y1="340" x2="400" y2="380" stroke="#111" stroke-width="1"/>
+<line x1="460" y1="287" x2="440" y2="287" stroke="#111" stroke-width="1"/>
+<circle cx="550" y="300" r="4" fill="#111"/>
+<text x="550" y="320" font-family="Helvetica, Arial, sans-serif" font-size="8" text-anchor="middle">TA 180°</text>
+<text x="400" y="580" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">FIG. 2</text>
+</svg>
