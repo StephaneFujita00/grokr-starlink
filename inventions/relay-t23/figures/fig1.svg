@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#fff"/>
+  <!-- Satellite body -->
+  <rect x="320" y="220" width="160" height="120" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Solar array -->
+  <rect x="180" y="240" width="140" height="80" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Hatch lines on array -->
+  <line x1="185" y1="245" x2="315" y2="315" stroke="#111" stroke-width="1"/>
+  <line x1="185" y1="260" x2="315" y2="330" stroke="#111" stroke-width="1"/>
+  <line x1="185" y1="275" x2="315" y2="345" stroke="#111" stroke-width="1"/>
+  <!-- Sun vector arrow -->
+  <line x1="120" y1="180" x2="280" y2="260" stroke="#111" stroke-width="2"/>
+  <polygon points="280,260 265,250 275,265" fill="#111"/>
+  <!-- Observer line of sight -->
+  <line x1="600" y1="400" x2="400" y2="280" stroke="#111" stroke-width="2"/>
+  <polygon points="400,280 415,290 405,275" fill="#111"/>
+  <!-- Bias angle arc -->
+  <path d="M300 260 A40 40 0 0 1 340 300" fill="none" stroke="#111" stroke-width="1.5"/>
+  <!-- Leader lines and numerals -->
+  <line x1="400" y1="280" x2="450" y2="200" stroke="#111" stroke-width="1"/>
+  <text x="455" y="195" font-family="Helvetica, Arial, sans-serif" font-size="14">10</text>
+  <line x1="250" y1="280" x2="200" y2="200" stroke="#111" stroke-width="1"/>
+  <text x="170" y="195" font-family="Helvetica, Arial, sans-serif" font-size="14">12</text>
+  <line x1="280" y1="260" x2="220" y2="180" stroke="#111" stroke-width="1"/>
+  <text x="190" y="175" font-family="Helvetica, Arial, sans-serif" font-size="14">22</text>
+  <line x1="400" y1="280" x2="480" y2="340" stroke="#111" stroke-width="1"/>
+  <text x="485" y="345" font-family="Helvetica, Arial, sans-serif" font-size="14">24</text>
+  <line x1="320" y1="280" x2="280" y2="320" stroke="#111" stroke-width="1"/>
+  <text x="250" y="335" font-family="Helvetica, Arial, sans-serif" font-size="14">14</text>
+  <!-- Caption -->
+  <text x="400" y="580" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle">FIG. 1</text>
+</svg>
